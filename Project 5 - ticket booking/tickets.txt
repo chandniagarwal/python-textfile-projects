@@ -1,0 +1,6 @@
+TicketID|Name|Event|Status
+T001|---|Concert|Available
+T002|---|Concert|Available
+T003|---|Concert|Available
+T004|---|Concert|Available
+T005|---|Concert|Available

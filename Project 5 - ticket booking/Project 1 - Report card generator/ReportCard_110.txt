@@ -1,0 +1,11 @@
+----- Report Card -----
+Roll No   : 110
+Name      : Isha Jain
+Class     : XII-A
+Math      : 79
+Physics   : 80
+CS        : 83
+Total     : 242
+Percentage: 80.67%
+Grade     : B
+------------------------

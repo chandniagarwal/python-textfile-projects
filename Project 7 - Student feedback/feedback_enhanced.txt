@@ -1,0 +1,3 @@
+[2025-06-05 12:30] | Teaching | The teacher explains really well. | Submitted by: Riya | Sentiment: Positive
+[2025-06-05 12:35] | Facilities | The projector was not working today. | Submitted by: Anonymous | Sentiment: Negative
+[2025-06-05 12:40] | Labs | The system was slow but we managed to complete the task. | Submitted by: Aman | Sentiment: Neutral

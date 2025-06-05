@@ -1,0 +1,6 @@
+Report Card for Roll No: 110
+Name: Anuj
+Maths: 87 - Grade: A
+Science: 78 - Grade: A
+Computer: 91 - Grade: A+
+Total: 256
